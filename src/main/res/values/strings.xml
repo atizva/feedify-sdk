@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">feed_push</string>
+
+
+    <string name="_google_services_not_found">Error google-services.json not found in assets please make sure to place correct google-services.json file in assets.</string>
+    <string name="_google_services_invalid">Invalid google-services.json data please make sure to place correct google-services.json file in assets.</string>
+    <string name="_google_services_not_register">Error google-services.json not contain given app package.</string>
+
+
+    <string name="feedify_user" />
+    <string name="feedify_dkey"/>
+    <string name="feedify_domain"/>
+
+
+
+
+</resources>
